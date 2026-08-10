@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Subbarscrap was on github</h1>
+<h1 align="center">Divo was on github</h1>
 
 ###
 
